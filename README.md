@@ -31,7 +31,7 @@ Load and visualize data
 
 
 📸 Dashboard Preview
-![Dashboard](image.png)
+![Dashboard](dashboard.png)
 
 👨‍💻 Author
 Rijul
